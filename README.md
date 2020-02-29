@@ -1,1 +1,1 @@
-# francuskoinator
+# Français-inator
